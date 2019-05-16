@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="STLMap">
+      <UniqueIdentifier>{5a6b32c2-9924-479f-8acf-868ccde6d886}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STLList">
+      <UniqueIdentifier>{8aee50c0-8097-41bc-862a-5470ec91badb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STLVector">
+      <UniqueIdentifier>{0d2945f8-dc24-46ae-afcb-d03f69fa753f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DIYVector">
+      <UniqueIdentifier>{627655b1-64d2-46e0-af8b-0b35d1080ada}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DIYMap">
+      <UniqueIdentifier>{415d9f47-23b0-41f9-94e3-86927fb51431}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DIYList">
+      <UniqueIdentifier>{306b1af3-b7be-4d2b-85e3-a6be2e0b59aa}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cPerson.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="iPersonMotron.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="STLMap.h">
+      <Filter>STLMap</Filter>
+    </ClInclude>
+    <ClInclude Include="STLVector.h">
+      <Filter>STLVector</Filter>
+    </ClInclude>
+    <ClInclude Include="STLList.h">
+      <Filter>STLList</Filter>
+    </ClInclude>
+    <ClInclude Include="DIYVector.h">
+      <Filter>DIYVector</Filter>
+    </ClInclude>
+    <ClInclude Include="cVector.h">
+      <Filter>DIYVector</Filter>
+    </ClInclude>
+    <ClInclude Include="cMap.h">
+      <Filter>DIYMap</Filter>
+    </ClInclude>
+    <ClInclude Include="DIYMap.h">
+      <Filter>DIYMap</Filter>
+    </ClInclude>
+    <ClInclude Include="RBTree.h">
+      <Filter>DIYMap</Filter>
+    </ClInclude>
+    <ClInclude Include="AVLTree.h">
+      <Filter>DIYMap</Filter>
+    </ClInclude>
+    <ClInclude Include="DIYList.h">
+      <Filter>DIYList</Filter>
+    </ClInclude>
+    <ClInclude Include="cList.h">
+      <Filter>DIYList</Filter>
+    </ClInclude>
+    <ClInclude Include="MergeSort.h">
+      <Filter>DIYList</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="mainTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="STLMap.cpp">
+      <Filter>STLMap</Filter>
+    </ClCompile>
+    <ClCompile Include="STLVector.cpp">
+      <Filter>STLVector</Filter>
+    </ClCompile>
+    <ClCompile Include="STLList.cpp">
+      <Filter>STLList</Filter>
+    </ClCompile>
+    <ClCompile Include="DIYVector.cpp">
+      <Filter>DIYVector</Filter>
+    </ClCompile>
+    <ClCompile Include="cVector.cpp">
+      <Filter>DIYVector</Filter>
+    </ClCompile>
+    <ClCompile Include="cMap.cpp">
+      <Filter>DIYMap</Filter>
+    </ClCompile>
+    <ClCompile Include="DIYMap.cpp">
+      <Filter>DIYMap</Filter>
+    </ClCompile>
+    <ClCompile Include="RBTree.cpp">
+      <Filter>DIYMap</Filter>
+    </ClCompile>
+    <ClCompile Include="AVLTree.cpp">
+      <Filter>DIYMap</Filter>
+    </ClCompile>
+    <ClCompile Include="DIYList.cpp">
+      <Filter>DIYList</Filter>
+    </ClCompile>
+    <ClCompile Include="cList.cpp">
+      <Filter>DIYList</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeSort.cpp">
+      <Filter>DIYList</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+﻿  mainTest.cpp
+  Generating code
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlanddiyproject\stlvector.cpp(367): warning C4715: 'STLVector::FindPeopleByName': not all control paths return a value
+  All 666 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  STLandDIYProject.vcxproj -> D:\College\Term2\Gems & Algorithms\GemsProject1\AngusPooleGemsProject1\x64\Release\STLandDIYProject.exe

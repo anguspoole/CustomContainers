@@ -1,0 +1,145 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (STLVector.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AVLTree.cpp
+  cList.cpp
+  cMap.cpp
+  cVector.cpp
+  DIYList.cpp
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diylist.cpp(34): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diylist.cpp(35): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diylist.cpp(36): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diylist.cpp(59): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diylist.cpp(63): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diylist.cpp(195): warning C4018: '<=': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diylist.cpp(209): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diylist.cpp(224): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diylist.cpp(246): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diylist.cpp(267): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diylist.cpp(326): warning C4018: '<=': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diylist.cpp(340): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diylist.cpp(355): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diylist.cpp(377): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diylist.cpp(398): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diylist.cpp(440): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diylist.cpp(470): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diylist.cpp(518): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diylist.cpp(566): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diylist.cpp(743): warning C4018: '<': signed/unsigned mismatch
+  DIYMap.cpp
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(41): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(42): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(43): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(66): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(70): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(184): warning C4018: '<=': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(196): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(208): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(227): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(246): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(293): warning C4018: '<=': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(305): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(317): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(336): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(355): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(392): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(415): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(457): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(497): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(551): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(567): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(583): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(614): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(627): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(643): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(672): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(686): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(702): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(732): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(746): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(762): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(832): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diymap.cpp(933): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+  DIYVector.cpp
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(32): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(33): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(34): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(57): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(61): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(165): warning C4018: '<=': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(177): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(189): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(209): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(228): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(273): warning C4018: '<=': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(285): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(297): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(316): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(335): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(370): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(393): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(434): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(474): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(523): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(525): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(542): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(544): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(561): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(563): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(580): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(582): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(599): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(601): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(629): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(631): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(659): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(661): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(689): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(691): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\diyvector.cpp(761): warning C4018: '<': signed/unsigned mismatch
+  mainTest.cpp
+  MergeSort.cpp
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\mergesort.cpp(57): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\mergesort.cpp(229): warning C4018: '<': signed/unsigned mismatch
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\mergesort.cpp(238): warning C4018: '<': signed/unsigned mismatch
+  RBTree.cpp
+  STLList.cpp
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\stllist.cpp(32): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\stllist.cpp(33): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\stllist.cpp(34): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\stllist.cpp(57): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\stllist.cpp(61): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\stllist.cpp(306): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+  STLMap.cpp
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\stlmap.cpp(35): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\stlmap.cpp(36): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\stlmap.cpp(37): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\stlmap.cpp(60): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\stlmap.cpp(64): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\utility(172): warning C4244: 'initializing': conversion from 'unsigned __int64' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+  d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\stlmap.cpp(897): note: see reference to function template instantiation 'std::pair<int,sPerson>::pair<unsigned __int64&,sPerson&,0>(_Other1,_Other2) noexcept(false)' being compiled
+          with
+          [
+              _Other1=unsigned __int64 &,
+              _Other2=sPerson &
+          ]
+  d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\stlmap.cpp(897): note: see reference to function template instantiation 'std::pair<int,sPerson>::pair<unsigned __int64&,sPerson&,0>(_Other1,_Other2) noexcept(false)' being compiled
+          with
+          [
+              _Other1=unsigned __int64 &,
+              _Other2=sPerson &
+          ]
+  STLVector.cpp
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\stlvector.cpp(32): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\stlvector.cpp(33): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\stlvector.cpp(34): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\stlvector.cpp(57): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\stlvector.cpp(61): warning C4244: '=': conversion from 'SIZE_T' to 'float', possible loss of data
+  Generating Code...
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\stlvector.cpp(367): warning C4715: 'STLVector::FindPeopleByName': not all control paths return a value
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\stlmap.cpp(380): warning C4715: 'STLMap::FindPeopleByName': not all control paths return a value
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\rbtree.cpp(330): warning C4715: 'RBTree::traverseInOrder': not all control paths return a value
+d:\college\term2\gems & algorithms\gemsproject1\anguspoolegemsproject1\stlvector\rbtree.cpp(758): warning C4715: 'strRBTree::traverseInOrder': not all control paths return a value
+  STLVector.vcxproj -> D:\College\Term2\Gems & Algorithms\GemsProject1\AngusPooleGemsProject1\x64\Debug\STLandDIYProject.exe
