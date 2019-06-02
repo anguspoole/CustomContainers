@@ -5,7 +5,7 @@ This project contains custom vector/map/list classes alongside stl versions of t
 This project was made by Angus Poole
 
 ## COMPILING/RUNNING THE PROGRAM
-I believe it should compile/run in all configurations.
+Compile/Run in Debug/x64.
 
 ## MAINTEST FILE
 The file mainTest.cpp contains code I used to test out the various container classes and their functions.
